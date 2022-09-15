@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and web development
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me donray1986@gmail.com
+- 📫 How to reach me ragbenyegah86@gmail.com
 
 <!---
 TheKharis/TheKharis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
