@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and web development
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me ragbenyegah86@gmail.com
+- 📫 How to reach me reubenagbenyegah86@gmail.com
 - 🌱 Software Engineering Student at ALX
 
 <!---
